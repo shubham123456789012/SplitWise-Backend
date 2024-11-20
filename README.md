@@ -10,7 +10,7 @@ Functionality supported: Status (Done: YES/NO)
 6. expense settlement : NO
 7. chat functionality ( Most Likely) : NO
 
-Related work:
+#Related work:
 #SplitWise-FrontEnd ( ReactJs)
 
 Repository Url - Work In Progress
